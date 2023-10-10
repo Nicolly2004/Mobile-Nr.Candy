@@ -54,5 +54,6 @@ border-top-width: 2px ;
 border-top-color: #91a1a5;
 padding: 4px;
 margin-top: 6px;
+gap: 8px;
 `;
 
